@@ -68,7 +68,7 @@
 
 
 
----
+
 
 ## 🙌 Special Thanks
 To **Dr. Amany Shousha** for launching this initiative and making AI testing accessible to new generations of testers.
@@ -79,6 +79,6 @@ To **Dr. Amany Shousha** for launching this initiative and making AI testing acc
 
 
 
----
+
 
 Let’s build the strongest **AI-powered testing community** together! 💪
