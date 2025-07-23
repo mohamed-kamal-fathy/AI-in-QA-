@@ -1,5 +1,5 @@
 # AI-in-QA-
-# 🤖 AI Applications for Software Testing 
+#  AI Applications for Software Testing 
 
 
 
