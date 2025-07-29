@@ -52,7 +52,7 @@
 
 
 ### ✅ 8. Capstone Project
-**Example:** Full E2E project combining AI-generated test steps, test data, and visual testing
+**Example:** Full E2E project combining AI-generated test steps, test data, and visual testing.
 
 
 ---
